@@ -8,9 +8,9 @@ const Resume = {
     address: '123 Main Street',
     website: 'https://website.com',
     city: 'City',
-    state: 'CA',
+    state: 'Tamil Nadu',
     zip: '00000',
-    country: 'USA',
+    country: 'India',
   },
   professionalSummary: {
     text: 'Your professional summary!',
@@ -19,7 +19,7 @@ const Resume = {
     {
       company: 'Experience 1',
       city: 'City',
-      state: 'CA',
+      state: 'Tamil Nadu',
       position: 'Position 1',
       dateFrom: 'XX/XXXX',
       dateTo: '',
@@ -33,7 +33,7 @@ const Resume = {
     {
       company: 'Experience 2',
       city: 'City',
-      state: 'CA',
+      state: 'Tamil Nadu',
       position: 'Position 2',
       dateFrom: 'XX/XXXX',
       dateTo: 'XX/XXXX',
@@ -47,7 +47,7 @@ const Resume = {
     {
       company: 'Experience 3',
       city: 'City',
-      state: 'CA',
+      state: 'Tamil Nadu',
       position: 'Position 3',
       dateFrom: '',
       dateTo: '',
