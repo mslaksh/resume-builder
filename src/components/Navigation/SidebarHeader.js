@@ -20,7 +20,7 @@ function ToolbarHeader() {
         }}
       >
         <span role="img" aria-label="curly page emoji">📃 </span>
-        JSON Resume
+        Resume Builder
       </h1>
       <em
         style={{
@@ -28,7 +28,7 @@ function ToolbarHeader() {
           fontWeight: 100,
         }}
       >
-        code your resume!
+        Shanthosh Lakshman
       </em>
       <Header as="h2">
         <Icon name="code" style={{ fontSize: 24, position: 'relative', bottom: 7 }} />
